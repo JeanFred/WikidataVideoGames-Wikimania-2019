@@ -134,11 +134,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24748737"
-     inkscape:cx="-19.31524"
-     inkscape:cy="227.41565"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="1241.0328"
+     inkscape:cy="898.0688"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g1785"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
@@ -474,7 +474,7 @@
            id="tspan4989"
            x="94.892403"
            y="58.688438"
-           dx="0 0">L2.0</tspan></text>
+           dx="0 0.94494045">L7889</tspan></text>
       <rect
          ry="1.5436105"
          y="64.327332"
@@ -1351,7 +1351,7 @@
              y="183.03383"
              x="326.99963"
              id="tspan1674"
-             sodipodi:role="line">Involves Wikipedia projects</tspan></text>
+             sodipodi:role="line">Involve Wikipedians</tspan></text>
       </g>
       <rect
          y="-488.97565"
@@ -1444,17 +1444,17 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.34722233px;line-height:1.25;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#17a4bc;fill-opacity:1;stroke:none;stroke-width:0.33552885"
-         x="15.837967"
-         y="254.308"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.40555556px;line-height:1.25;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#17a4bc;fill-opacity:1;stroke:none;stroke-width:0.36478361;"
+         x="15.911173"
+         y="263.46042"
          id="text1463"><tspan
            sodipodi:role="line"
-           x="15.837967"
-           y="254.308"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.34722233px;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#17a4bc;fill-opacity:1;stroke-width:0.33552885"
-           id="tspan1483">Talk to us! Jean-Frédéric Berthelot &amp; Envel Le Hir</tspan></text>
+           x="15.911173"
+           y="263.46042"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.40555556px;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;fill:#17a4bc;fill-opacity:1;stroke-width:0.36478361;"
+           id="tspan1483">Stay awhile, and talk to us!</tspan></text>
       <g
-         transform="translate(-103.10392,-6.7020132)"
+         transform="translate(122.92584,-7.0799894)"
          id="g1558">
         <g
            id="g1491"
@@ -1477,6 +1477,17 @@
              style="fill:#148fa5;fill-opacity:1" />
         </g>
       </g>
+      <text
+         id="text1789"
+         y="278.99368"
+         x="15.911173"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.40555556px;line-height:1.25;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#17a4bc;fill-opacity:1;stroke:none;stroke-width:0.36478361;"
+         xml:space="preserve"><tspan
+           id="tspan1787"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.40555556px;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;fill:#17a4bc;fill-opacity:1;stroke-width:0.36478361;"
+           y="278.99368"
+           x="15.911173"
+           sodipodi:role="line">Jean-Frédéric Berthelot &amp; Envel Le Hir</tspan></text>
     </g>
   </g>
 </svg>
